@@ -1,0 +1,10 @@
+node_modules/
+*.rgba
+*.rgb
+*.gray
+Logs/
+Library/
+Temp/
+*.unitypackage
+*.fbx
+*.glb
